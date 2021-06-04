@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 🙋‍♂️ I'm Joedmin!</h1>
+<h1 align="center">Welcome 🙋‍♂️</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joedmin580" alt="joedmin580" /></a> </p>
 
 ## 😃 About me
