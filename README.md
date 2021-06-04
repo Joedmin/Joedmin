@@ -46,7 +46,7 @@
 <a href="https://linkedin.com/in/joedmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joedmin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14466874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14466874" height="30" width="40" /></a>
 <a href="https://instagram.com/joedmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joedmin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@joedmin580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@joedmin580" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Joedmin580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@joedmin580" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
