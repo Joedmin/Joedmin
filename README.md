@@ -29,7 +29,7 @@
 
 ## 📫 How to reach me
 
-- **joedmi189@gmail.com**
+- joedmi189@gmail.com
 
 ## ⚙ Soft skills
 
