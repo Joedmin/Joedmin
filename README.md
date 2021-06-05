@@ -17,7 +17,7 @@
 
 ## 👨‍💻 My personal website
 
-- [joedmin580.github.io/](joedmin580.github.io/)
+- [joedmin580.github.io/](https://joedmin580.github.io/)
 
 ## 🎈 My interests
 
