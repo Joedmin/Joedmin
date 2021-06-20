@@ -10,9 +10,9 @@
 
 ## 🌱 I’m currently learning
 
-- Python
 - C#
 - ASP.NET
+- Python
 - JavaScript
 
 ## 👨‍💻 My personal website
