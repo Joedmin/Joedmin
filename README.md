@@ -29,7 +29,7 @@
 
 ## 📫 How to reach me
 
-- joedmi189@gmail.com
+- joedmin.github.com
 
 ## ⚙ Soft skills
 
