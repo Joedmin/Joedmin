@@ -29,7 +29,7 @@
 
 ## 📫 How to reach me
 
-- joedmin.github.com
+- [joedmin.github.com](mailto:joedmin.github.com)
 
 ## ⚙ Soft skills
 
