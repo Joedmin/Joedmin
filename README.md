@@ -55,8 +55,7 @@
 
 ## 👨‍💻 My personal website
 
-* [joedmin.github.io/](joedmin.github.io/)
-* [joedmin.github.io/tanks](joedmin.github.io/tanks)
+* [joedmin.github.io/](https://joedmin.github.io/)
 
 
 ## 🏆 Stats & trophies
