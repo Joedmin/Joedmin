@@ -32,32 +32,6 @@
 * Parrots
 * Ford Mustangs
 
-
-<p>
-    <h2>📫 Connect with me</h2>
-    <a href="https://linkedin.com/in/joedmin" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn" width="40px" height="40px"/>
-    </a>
-    <a href="https://stackoverflow.com/users/14466874" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="My StackOverflow" width="40px" height="40px"/>
-    </a>
-    <a href="https://instagram.com/joedmin" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="My Instagram" width="40px" height="40px"/>
-    </a>
-    <a href="https://www.hackerrank.com/joedmin" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="My Hackerrank" width="40px" height="40px"/>
-    </a>
-    <a href="mailto:joedmin.github@gmail.com" target="blank">
-        <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="My Mail" width="40px" height="40px"/>
-    </a>
-</p>
-
-
-## 👨‍💻 My personal website
-
-* [joedmin.gitlab.io/](https://joedmin.gitlab.io/)
-
-
 ## 🏆 Stats & trophies
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=joedmin&" alt="My commit stats" width="50%" />
