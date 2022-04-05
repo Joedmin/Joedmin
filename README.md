@@ -10,6 +10,8 @@
 ## 🌱 I’m currently learning
 
 * C#
+    * Xamarin.Android
+    * Blazor
 * Python
 * JavaScript
 
