@@ -10,3 +10,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Joedmin&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 🦊 More on my GitLab!
+<a href="https://gitlab.com/Joedmin" target="_blank"><img src="gitlab_banner.jpg" width="100%"/></a>
